@@ -1,0 +1,16 @@
+gto-external-s3:
+  path: s3://mycorp/proj-ml/segm-model-2022-04-15.pt
+  type: model
+gto-mlem-in-mlem-dir:
+  path: .mlem/model/rf
+  type: model
+  virtual: false
+gto-mlem-not-in-mlem-dir:
+  path: models/lambda-1
+  type: model
+gto-no-path:
+  type: model
+gto-only:
+  path: models/churn.pkl
+  type: model
+  virtual: false
