@@ -6,7 +6,7 @@ gto-mlem-in-mlem-dir:
   type: model
   virtual: false
 gto-mlem-not-in-mlem-dir:
-  path: models/lambda-1
+  path: models/lambda-2
   type: model
 gto-no-path:
   type: model
