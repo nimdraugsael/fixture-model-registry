@@ -1,0 +1,4 @@
+outs:
+- md5: c260024d5469c601d1559d9cdaa12ddb
+  size: 209
+  path: constant-model

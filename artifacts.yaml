@@ -1,6 +1,9 @@
 gto-external-s3:
   path: s3://mycorp/proj-ml/segm-model-2022-04-15.pt
   type: model
+gto-mlem-dvc:
+  path: models/constant-model
+  type: model
 gto-mlem-in-mlem-dir:
   path: .mlem/model/rf
   type: model

@@ -1,0 +1,32 @@
+artifacts:
+  data.pkl:
+    hash: c260024d5469c601d1559d9cdaa12ddb
+    size: 209
+    type: dvc
+    uri: constant-model
+model_type:
+  io:
+    type: pickle
+  methods:
+    __call__:
+      args:
+      - name: data
+        type_:
+          ptype: str
+          type: primitive
+      name: <lambda>
+      returns:
+        ptype: str
+        type: primitive
+    predict:
+      args:
+      - name: data
+        type_:
+          ptype: str
+          type: primitive
+      name: predict
+      returns:
+        ptype: str
+        type: primitive
+  type: callable
+object_type: model
