@@ -17,3 +17,9 @@ gto-only:
   path: models/churn.pkl
   type: model
   virtual: false
+model1:
+  description: asdfasdfasdf
+  labels:
+  - foo
+  path: models/raw_vecs_ids.h5
+  type: model

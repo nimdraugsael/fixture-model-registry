@@ -1,0 +1,5 @@
+frozen: true
+deps:
+- path: s3://refsee-simapp-models/films_search_app_data/raw_vecs_ids.h5
+outs:
+- path: raw_vecs_ids.h5
