@@ -23,3 +23,8 @@ model1:
   - foo
   path: models/raw_vecs_ids.h5
   type: model
+new-model:
+  labels:
+  - foo
+  path: new_model/raw_vecs.h5
+  type: model
